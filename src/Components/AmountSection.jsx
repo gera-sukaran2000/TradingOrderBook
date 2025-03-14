@@ -32,7 +32,7 @@ const AmountSection = ({ type, data = [] }) => {
           display: "flex",
           flexDirection: "column",
           alignItems: "flex-end",
-          margin: "0px",
+          margin: "0px", 
           padding: "0px",
           width: "100%",
         }}
