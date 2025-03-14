@@ -1,0 +1,11 @@
+.headerBlock {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+}
